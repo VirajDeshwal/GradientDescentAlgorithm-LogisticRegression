@@ -1,0 +1,6 @@
+Gradient Descent Algorithm from scratch for minimizing the error by updating the weights.
+Partial Derivates are take till the error is not minimized.
+Learning rate is introduced to update the weights and bias to avoid the sudden change.
+Initial weights are updated with the new weights.
+Error is minimized.
+Classification is performed with Logistic Regression.
